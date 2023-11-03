@@ -1,7 +1,6 @@
 export const dynamicParams = false
 
 const Test = ({ params }) => {
-  console.log('params', params)
   return (
     <>
       <h1>Slug</h1>
